@@ -475,17 +475,18 @@ ul {
 
 .user__details {
   position: absolute;
-  top: 30px;
-  left: 30px;
+  bottom: 10px;
+  left: 7px;
   display: flex;
   align-items: center;
-  background: #fff;
-  padding: 10px;
+  padding: 5px;
   border-radius: 22px;
   -webkit-border-radius: 22px;
   -moz-border-radius: 22px;
   -ms-border-radius: 22px;
   -o-border-radius: 22px;
+  background: rgba(0, 0, 0, 0.7);
+  color: #fff;
 }
 
 .user__details img {
@@ -499,8 +500,8 @@ ul {
 
 .user__details p {
   font-family: sans-serif;
-  font-size: 18px;
-  line-height: 26px;
+  font-size: 16px;
+  line-height: 24px;
   font-weight: 800;
   margin-left: 10px;
 }
@@ -1442,7 +1443,8 @@ input[type="radio"]:checked + span {
   -moz-transition: all 0.2s ease;
   -ms-transition: all 0.2s ease;
   -o-transition: all 0.2s ease;
-  margin-left: 10px;
+  margin-left: 5px;
+  margin-top: 8px;
 }
 
 #modal-trigger-element-id:hover {
