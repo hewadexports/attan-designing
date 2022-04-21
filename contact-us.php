@@ -89,9 +89,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <body>
    <header>
       <nav class="navbar">
-        <div class="logo">
-          <h1><a href="index.html">ATTAN</a></h1>
-          <p><span>Enjoy Life</span></p>
+      <div class="logo">
+          <a href="#">
+            <img src="images/logo1.png" alt="Logo" />
+          </a>
         </div>
 
         <!-- Mobile Hamburger Icon -->
