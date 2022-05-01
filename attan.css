@@ -358,6 +358,7 @@ ul {
 .banner-slider,
 .banner__slide-image img {
   height: 400px;
+  width: 100%;
 }
 
 .banner__slide-image img {

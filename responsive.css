@@ -304,6 +304,10 @@
     bottom: 0.2rem;
   }
   /* New Section Code */
+  .events__card-overlay h3 {
+    font-size: 30px;
+    line-height: 36px;
+  }
 }
 
 @media (max-width: 64.38rem) {
@@ -606,10 +610,9 @@
 
   /* New Section Code */
 
-  #modal-trigger-element-id {
-    padding: 13px 30px 7px;
-    font-size: 15px;
-    line-height: 20px;
+  .events__card-overlay h3 {
+    font-size: 30px;
+    line-height: 36px;
   }
 }
 
